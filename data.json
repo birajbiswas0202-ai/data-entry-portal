@@ -1,0 +1,15 @@
+// package.json
+{
+  "name": "data-entry-portal",
+  "version": "1.0.0",
+  "description": "Full-stack Data Entry Earnings Platform",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "dependencies": {
+    "bcryptjs": "^2.4.3",
+    "express": "^4.18.2",
+    "sqlite3": "^5.1.6"
+  }
+}
